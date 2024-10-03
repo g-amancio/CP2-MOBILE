@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cp</string>
+    <string name="name_hint">Nome</string>
+    <string name="email_hint">Email</string>
+    <string name="age_hint">Idade</string>
+    <string name="submit">Enviar</string>
+</resources>
