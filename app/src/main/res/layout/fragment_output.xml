@@ -25,7 +25,15 @@
 
     <ImageButton
         android:id="@+id/imageButtonOutput"
+        android:layout_width="79dp"
+        android:layout_height="49dp"
+        android:src="@drawable/userfoto" />
+
+    <Button
+        android:id="@+id/backButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_launcher_background" />
+        android:text="Back"
+        android:layout_columnSpan="2"
+        android:layout_gravity="center" />
 </GridLayout>
